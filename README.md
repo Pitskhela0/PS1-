@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to Problem Set 1!
 
 The full information for this problem set is available at https://web.mit.edu/6.102/www/sp24/psets/ps1/#specifications
@@ -31,3 +32,6 @@ Start with algorithm.ts and test/algorithmTest.ts:
 - Commit and Push Regularly: Use git add, git commit, and git push to save your work frequently to Git.
 
 ![alt text](https://fms-s3-dev.s3.eu-central-1.amazonaws.com/flashcards.png)
+=======
+# PS1-
+>>>>>>> 4cc5ba49e40d570ab3649b9a4ddbcdaf9ba6789a
